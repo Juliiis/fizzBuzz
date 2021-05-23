@@ -1,0 +1,11 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz code sherpas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "julieta",
+  "license": "ISC"
+}
